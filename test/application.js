@@ -93,6 +93,7 @@ describe('application test', function(){
           done();
         }, WAIT_TIME);
       }, WAIT_TIME);
+      //For testing purpose
     });
 
     it('should access the component with a name by app.components.name after loaded', function() {
